@@ -64,7 +64,7 @@ yyerror(char*s)
 }
 ```
 # Output
-<img width="396" alt="image" src="https://github.com/manomadhivanan/Ex-6-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC-USING-YACC/assets/115543366/bfe5faea-6884-4674-b658-0dc42d399dd7">
+<img width="281" alt="image" src="https://github.com/manomadhivanan/Ex-6-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC-USING-YACC/assets/115543366/8ddeac8f-516d-4021-a6a7-3dad49e8ef16">
 
 # Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.
